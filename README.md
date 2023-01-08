@@ -1,7 +1,7 @@
 # pypruebas
 Repositorio con pruebas de Python y Qt en Windows
 
-Para probar, se debe instalar lo siguiente:
+Para probar, ejecutar lo siguiente desde Powershell:
 
 ``winget install python``
 
